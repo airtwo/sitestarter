@@ -1,0 +1,34 @@
+// Brand Palette
+// ••••••••••••••••••••••••••••••••••••••••••••••••••
+
+$brand-primary:               #1B9CBE;
+$brand-secondary:             #FD8627;
+$brand-accent:                #003F4E;
+
+// UI Palette
+// ••••••••••••••••••••••••••••••••••••••••••••••••••
+$bg-color:                    #ddd;
+$grey:                        #ddd;
+$white:                       #fff;
+
+$text-color:                  #333;
+$accent-color:                $brand-accent;
+
+$link-color:                  #1B9CBE;
+$link-visited-color:          $link-color;
+$link-hover-color:            lighten($link-color, 20);
+
+
+
+// Semantic Colors
+// ••••••••••••••••••••••••••••••••••••••••••••••••••
+
+$success: #2ecc71;
+$success-hover: darken($success, 10);
+
+$warning: #e67e22;
+$warning-hover: darken($warning, 10);
+
+$danger: #e74c3c;
+$danger-hover: darken($danger, 10);
+
